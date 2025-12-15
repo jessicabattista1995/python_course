@@ -1,24 +1,19 @@
-# 📘 Projeto de Estudo – Data & Python
+# 🐍 Python Course – Estudos
 
-## 🧠 Sobre o Projeto
-Este repositório contém exercícios, exemplos e estudos realizados durante
-meu processo de aprendizado em Análise de Dados e Python.
+## 📘 Sobre
+Repositório com exercícios e estudos em Python, focado em lógica de programação,
+estruturas de dados e aplicações básicas para análise de dados.
 
 ## 🎯 Objetivo
-- Praticar conceitos de programação
-- Aprimorar lógica e análise de dados
-- Consolidar aprendizado técnico
+Praticar Python e consolidar fundamentos para projetos de dados.
 
-## 🛠️ Tecnologias
+## 🛠️ Ferramentas
 - Python
 - Jupyter Notebook
-- Pandas / Matplotlib
 
 ## 📂 Conteúdo
-- Scripts de estudo
-- Notebooks de prática
+- Notebooks de estudo
 - Exercícios resolvidos
 
 ## 📌 Observação
-Projeto com finalidade educacional, voltado para evolução contínua
-e construção de base técnica em dados.
+Projeto de estudo pessoal para desenvolver lógica e sintaxe em Python.
